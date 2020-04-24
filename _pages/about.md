@@ -25,13 +25,13 @@ Invited Speakers
 * **[Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)** (Carnegie Mellon University)
 * **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto)
 * **[Maria-Florina Balcan](http://www.cs.cmu.edu/~ninamf/)** (Carnegie Mellon University)
-* **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (tentative, UC Berkeley)
+* **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (UC Berkeley)
 
 Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](/cfp/) for submission instructions.
 
-* Submission deadline: 23th May 2020, 11:59 PM (AoE time)
+* Submission deadline: 15th June 2020, 11:59 PM (AoE time)
 * Notification of acceptance: TBD (AoE time)
 * Workshop date: 17 or 18 July 2020
 

@@ -11,7 +11,7 @@ Now is the perfect time for experiment design and active learning methods to mak
 <p style="text-align: justify;">
 We welcome submissions of 4-6 pages in JMLR Workshop and Proceedings format (excluding references). All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. For submission details see: **submission site open soon**.</p>
 
-The work should be submitted by the latest **23th May 2020, 11:59 PM (Anywhere on Earth)**. 
+The work should be submitted by the latest **15th June 2020, 11:59 PM (Anywhere on Earth)**. 
 
 Technical topics of interest include (but are not limited to):
 * Large-scale and real-world experiment design (e.g. biological/molecular/drug design, physics, robotics, crowdsourcing, citizen science, algorithms, etc.) 

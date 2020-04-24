@@ -14,7 +14,7 @@ sitemap: false
 * **[Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)** (Carnegie Mellon University)
 * **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto)
 * **[Maria-Florina Balcan](http://www.cs.cmu.edu/~ninamf/)** (Carnegie Mellon University)
-* **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (tentative, UC Berkeley)
+* **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (UC Berkeley)
 
 <!-- * **[Dorsa Sadigh](https://dorsa.fyi/)** (University of California, Berkeley)
  -->
