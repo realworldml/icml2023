@@ -33,7 +33,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 
 * Submission deadline: 15th June 2020, 11:59 PM (AoE time)
 * Notification of acceptance: TBD (AoE time)
-* Workshop date: 17 or 18 July 2020
+* Workshop date: 17th or 18th July 2020
 
 Organizers
 ------
