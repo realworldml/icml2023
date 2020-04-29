@@ -24,7 +24,6 @@ Invited Speakers
 * **[Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/)** (University of Oxford)
 * **[Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)** (Carnegie Mellon University)
 * **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto)
-* **[Maria-Florina Balcan](http://www.cs.cmu.edu/~ninamf/)** (Carnegie Mellon University)
 * **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (UC Berkeley)
 
 Call for Submissions & Important Dates
