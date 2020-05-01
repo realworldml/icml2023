@@ -8,8 +8,10 @@ sitemap: false
 
 <!-- <p style="text-align: justify;">
 Now is the perfect time for experiment design and active learning methods to make serious headway on a variety of modern challenges and domains. For example, many experiment design tasks involve vast and unstructured search spaces (e.g., the number of potential drug-like molecules is estimated between 10^23 and 10^60), immense amounts of unlabeled data, costly experiments, constraints in the data collection process, the potential for massive parallelism in experimentation, and corrupted or disagreeing measurement outcomes. We are particularly interested in understanding the current issues preventing the broad application of experiment design and active learning methods to these challenges, as well as initial successes.</p> -->
-<p style="text-align: justify;">
-We welcome submissions of 4-6 pages in JMLR Workshop and Proceedings format (excluding references). All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. For submission details see: **submission site open soon**.</p>
+<!--<p style="text-align: justify;">-->
+<!--</p>-->
+
+We welcome submissions of 4-6 pages (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions do not need to be anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. For submission details see: **submission site open soon**.
 
 The work should be submitted by the latest **15th June 2020, 11:59 PM (Anywhere on Earth)**. 
 
