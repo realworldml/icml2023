@@ -38,4 +38,4 @@ Organizers
 ------
 * **[Ilija Bogunovic](https://ilijabogunovic.com)** (ETH Zurich)
 * **[Willie Neiswanger](https://www.cs.cmu.edu/~wdn/)** (Carnegie Mellon University)
-* **[Yisong Yue](http://www.yisongyue.com/)** (California Institute of Technology)
+* **[Yisong Yue](http://www.yisongyue.com/)** (Caltech)
