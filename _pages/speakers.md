@@ -13,6 +13,7 @@ sitemap: false
 * **[Pietro Perona](http://www.vision.caltech.edu/Perona.html)** (Caltech)
 * **[Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/)** (University of Oxford)
 * **[Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)** (Carnegie Mellon University)
+* **[Dorsa Sadigh](https://dorsa.fyi/)** (Stanford University)
 * **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto)
 
 <!-- * **[Dorsa Sadigh](https://dorsa.fyi/)** (University of California, Berkeley)
