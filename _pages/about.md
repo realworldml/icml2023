@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### <center> Virtual workshop, 17 or 18 July 2020 @ICML</center> ####
+#### <center> Virtual workshop, 18 July 2020 @ICML</center> ####
 ------
 <p style="text-align: justify;">
 This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experiment design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experiment design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in using experiment design and active learning algorithms in emerging high impact applications, such as material design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, and more. </p>
@@ -31,9 +31,9 @@ Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](/cfp/) for submission instructions.
 
-* Submission deadline: 15th June 2020, 11:59 PM (AoE time)
+* Submission deadline: 22nd June 2020, 11:59 PM (AoE time)
 * Notification of acceptance: TBD (AoE time)
-* Workshop date: 17th or 18th July 2020
+* Workshop date: 18th July 2020
 
 Organizers
 ------
