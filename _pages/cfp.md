@@ -13,7 +13,7 @@ Now is the perfect time for experiment design and active learning methods to mak
 
 We welcome submissions of 4-6 pages (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted [here via EasyChair](https://easychair.org/cfp/realml-icml2020).
 
-The work should be submitted by the latest **22nd June 2020, 11:59 PM (Anywhere on Earth)**. 
+[Note: the deadline has been **extended by one week**] The work should be submitted by **22nd June 2020, 11:59 PM (Anywhere on Earth)**.
 
 Technical topics of interest include (but are not limited to):
 * Large-scale and real-world experiment design (e.g. biological/molecular/drug design, physics, robotics, crowdsourcing, citizen science, algorithms, etc.) 
