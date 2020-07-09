@@ -26,14 +26,14 @@ Technical topics of interest include (but are not limited to):
 
 
 
-### Camera-Ready Instructions
+## Camera-Ready Instructions
 Camera-ready papers should be at most 6 pages (excluding references and appendix), using the [customized JMLR template linked here](camera_ready_jmlr_tex_template.zip).
 All papers must be sent by **July 15, 2020, 11:59 PM (Anywhere on Earth)** to the following email address: realml.icml2020@gmail.com
 
 Note that there will be no archival proceedings. However, the camera-ready papers will be made available on the workshop website.
 
 
-### Lightning Talk Instructions
+## Lightning Talk Instructions
 During the workshop, we will host a round of lightning talks for all accepted papers, where an author from each paper will have the chance to talk about their work live via Zoom, for up to 2 minutes (using slides). Slides must be in PDF format, and sent to organizers in advance, by July 15. Organizers will click through slides while authors speak. Slides will be made available on the workshop website.
 Here are the key details:
 * **Talk date/time:** 5:10 - 6:40 PM UTC on the day of the workshop (July 18, 2020).
