@@ -37,7 +37,7 @@ Note that there will be no archival proceedings. However, the camera-ready paper
 During the workshop, we will host a round of lightning talks for all accepted papers, where an author from each paper will have the chance to talk about their work live via Zoom, for up to 2 minutes (using slides). Slides must be in PDF format, and sent to organizers in advance, by July 15. Organizers will click through slides while authors speak. Slides will be made available on the workshop website.
 Here are the key details:
 * **Talk date/time:** 5:10 - 6:40 PM UTC on the day of the workshop (July 18, 2020).
-* **Talk details:** Each talk should be under 2 minutes, using any number of slides. During the lightning talks, organizers will click through slides while authors speak.
+* **Talk details:** Each talk should be under 2 minutes, using any number of slides. Talks should summarize the main ideas and results of the paper. During each talk, organizers will click through slides while authors speak.
 * **Slide format:** Slides should be in PDF format.
 * **Submitting slides:** Slides must be sent by **July 15, 2020 (end of day, Anywhere on Earth)** to the following email address: realml.icml2020@gmail.com
 
