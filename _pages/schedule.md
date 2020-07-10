@@ -14,7 +14,7 @@ author_profile: true
 **04:30 PM - 05:10 PM**	|   (Invited Talk) **Anca Dragan: tba**
 **05:10 PM - 06:40 PM** |	**Lightning Talks**
 **06:50 PM - 07:30 PM**	|   (Invited Talk) **Aaditya Ramdas: "Uncertainty Quantification Using Martingales for Misspecified Gaussian Processes"**
-**07:35 PM - 08:10 PM** |	(Invited Talk) **Shipra Agrawal: Learning to manage inventory**
+**07:35 PM - 08:10 PM** |	(Invited Talk) **Shipra Agrawal: "Learning to Manage Inventory"**
 **08:20 PM - 09:00 PM** |	(Invited Talk) **Jennifer Listgarten: tba**
 **09:05 PM - 09:45 PM** |	(Invited Talk) **Angela Schoellig: tba**
 **09:50 PM - 10:30 PM** |   (Invited Talk) **Pietro Perona: tba**
