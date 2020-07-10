@@ -19,3 +19,6 @@ author_profile: true
 **09:05 PM - 09:45 PM** |	**Invited Talk:** Angela Schoellig
 **09:50 PM - 10:30 PM** |   **Invited Talk:** Pietro Perona
 **10:30 PM - 10:35 PM** |	**Closing Remarks**
+
+
+*All invited talks include 5 min. live Q&A session.
