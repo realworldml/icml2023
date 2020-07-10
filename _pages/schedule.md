@@ -7,7 +7,7 @@ author_profile: true
 
 **Time (in UTC)** | **Session**
 ------------ | -------------
-**02:00 PM - 02:10 PM** |	**Opening Statements** <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzdmOHAxMjE1MDdnaWhzNHNxOWVoZXIyMHMgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+**02:00 PM - 02:10 PM**<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzdmOHAxMjE1MDdnaWhzNHNxOWVoZXIyMHMgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	**Opening Statements** 
 **02:15 PM - 02:55 PM** |	(Invited Talk) **José Miguel Hernández Lobato: "Latent Space Optimization with Deep Generative Models"**
 **03:00 PM - 03:40 PM** |	(Invited Talk) **Tom Rainforth: tba**
 **03:45 PM - 04:25 PM** |   (Invited Talk) **Dorsa Sadigh: tba**
