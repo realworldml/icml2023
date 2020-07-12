@@ -9,7 +9,7 @@ author_profile: true
 ------------ | ------------
 **02:00 PM - 02:10 PM**  <a ></a> |	**Opening Statements** 
 **02:15 PM - 02:55 PM**  <a ></a> |	(Invited Talk) **José Miguel Hernández Lobato:** *Latent Space Optimization with Deep Generative Models*
-**03:00 PM - 03:40 PM**  <a ></a> |	(Invited Talk) **Tom Rainforth:** *tba*
+**03:00 PM - 03:40 PM**  <a ></a> |	(Invited Talk) **Tom Rainforth:** *Designing Bayesian-Optimal Experiments with Stochastic Gradients*
 **03:45 PM - 04:25 PM**  <a ></a> |   (Invited Talk) **Dorsa Sadigh:** *Active Learning of Robot Reward Functions*
 **04:30 PM - 05:10 PM**  <a ></a> |   (Invited Talk) **Anca Dragan:** *Active Learning through Physically-embodied, Synthesized-from-"scratch" Queries*
 **05:10 PM - 06:40 PM**  <a ></a> |	**Lightning Talks and Discussion**
