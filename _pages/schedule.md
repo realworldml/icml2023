@@ -15,7 +15,7 @@ author_profile: true
 **05:10 PM - 06:40 PM**  <a ></a> |	**Lightning Talks and Discussion**
 **06:50 PM - 07:30 PM**  <a ></a> |   (Invited Talk) **Aaditya Ramdas:** *Uncertainty Quantification Using Martingales for Misspecified Gaussian Processes*
 **07:35 PM - 08:15 PM**  <a ></a> |	(Invited Talk) **Shipra Agrawal:** *Learning to Manage Inventory*
-**08:20 PM - 09:00 PM**  <a ></a> |	(Invited Talk) **Jennifer Listgarten:** *tba*
+**08:20 PM - 09:00 PM**  <a ></a> |	(Invited Talk) **Jennifer Listgarten:** *Machine learning-based design (of proteins, small molecules and beyond)*
 **09:05 PM - 09:45 PM**  <a ></a> |	(Invited Talk) **Angela Schoellig:** *tba*
 **09:50 PM - 10:30 PM**  <a ></a> |   (Invited Talk) **Pietro Perona:** *tba*
 **10:30 PM - 10:35 PM** |	**Closing Remarks**
