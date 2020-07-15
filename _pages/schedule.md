@@ -17,7 +17,7 @@ author_profile: true
 **07:35 PM - 08:15 PM**  <a ></a> |	(Invited Talk) **Shipra Agrawal:** *Learning to Manage Inventory*
 **08:20 PM - 09:00 PM**  <a ></a> |	(Invited Talk) **Jennifer Listgarten:** *Machine learning-based design (of proteins, small molecules and beyond)*
 **09:05 PM - 09:45 PM**  <a ></a> |	(Invited Talk) **Angela Schoellig:** *tba*
-**09:50 PM - 10:30 PM**  <a ></a> |   (Invited Talk) **Pietro Perona:** *tba*
+**09:50 PM - 10:30 PM**  <a ></a> |   (Invited Talk) **Pietro Perona:** *Towards causal benchmarking of bias in face analysis algorithms*
 **10:30 PM - 10:35 PM** |	**Closing Remarks**
 
 
@@ -31,9 +31,9 @@ author_profile: true
 <!--**05:15 PM - 06:40 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGRhYjluc2xjdTU3Y2h2dG5qMjkyZGswdGMgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	**Lightning Talks and Discussion**-->
 <!--**06:45 PM - 07:30 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGVkZ2kycmJiY2JjMGU3OGgxa3ZzNGlyY2MgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |   (Invited Talk) **Aaditya Ramdas:** *Uncertainty Quantification Using Martingales for Misspecified Gaussian Processes*-->
 <!--**07:35 PM - 08:15 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NDA2aGVjdDI3NWV2azdlOTR2NmxvNHBsYW0gbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	(Invited Talk) **Shipra Agrawal:** *Learning to Manage Inventory*-->
-<!--**08:20 PM - 09:00 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHE4MHIyMzJyc3IzcG5pYjNjNnAyMnY4OTcgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	(Invited Talk) **Jennifer Listgarten:** *tba*-->
+<!--**08:20 PM - 09:00 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHE4MHIyMzJyc3IzcG5pYjNjNnAyMnY4OTcgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	(Invited Talk) **Jennifer Listgarten:** *Machine learning-based design (of proteins, small molecules and beyond)*-->
 <!--**09:05 PM - 09:45 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MjVtOHY0YWxnYWdiNWY3bzFhMjRhNzFpc2sgbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |	(Invited Talk) **Angela Schoellig:** *tba*-->
-<!--**09:50 PM - 10:30 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NDlnOWJ0NGxwYjQ1ZjdyZ25kZ2k1ZmRjcDggbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |   (Invited Talk) **Pietro Perona:** *tba*-->
+<!--**09:50 PM - 10:30 PM**  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NDlnOWJ0NGxwYjQ1ZjdyZ25kZ2k1ZmRjcDggbHNtdmZrc29uNXI0dG9ob2trMHFwY291MmtAZw&amp;tmsrc=lsmvfkson5r4tohokk0qpcou2k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> |   (Invited Talk) **Pietro Perona:** *Towards causal benchmarking of bias in face analysis algorithms*-->
 <!--**10:30 PM - 10:35 PM** |	**Closing Remarks**-->
 
 
