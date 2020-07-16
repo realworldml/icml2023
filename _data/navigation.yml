@@ -8,6 +8,8 @@ main:
     url: /speakers/
   - title: "Schedule"
     url: /schedule/
+  # - title: "Accepted papers"
+  #   url: /accepted/
   - title: "Organizers"
     url: /organizers/
   - title: "Related Workshops"
