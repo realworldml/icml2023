@@ -27,7 +27,7 @@ author_profile: true
 [Learning to Play Sequential Games versus Unknown Opponents](/files/cr/21_Learning_to_play_Sequential_Games.pdf) | Pier Giuseppe Sessa, Ilija Bogunovic, Maryam Kamgarpour, Andreas Krause | [pdf](/files/slides/21_Slides_Learning_to_Play_Sequential_Games.pdf)
 [Bayesian Optimization for Min Max Optimization](/files/cr/22_MinMaxOpt_Cameraready_20200715.pdf) | Dorina Weichert, Alexander Kister | [pdf](/files/slides/22_MinMaxOpt_Presentation_20200715.pdf)
 [Safe Reinforcement Learning in Constrained Markov Decision Processes](/files/cr/24_SNO_MDP_paper.pdf) | Akifumi Wachi, Yanan Sui | [pdf](/files/slides/24_SNO_MDP_slide.pdf)
-[Query-augmented Active Learning for Large-scale Clustering](/files/cr/25_ICML_workshop.pdf) | Yujia Deng, Yubai Yuan, Irvine Haoda, Annie Qu | [pdf](/files/slides/25_ICML2020_workshop.pdf)
+[Query-augmented Active Learning for Large-scale Clustering](/files/cr/25_ICML_workshop.pdf) | Yujia Deng, Yubai Yuan, Haoda Fu, Annie Qu | [pdf](/files/slides/25_ICML2020_workshop.pdf)
 [Stochastic Multiplayer Bandit Learning from Player-Dependent Feedback](/files/cr/26_stochastic_multiplayer_paper.pdf) | Zhi Wang, Manish Kumar Singh, Chicheng Zhang, Laurel D. Riek, Kamalika Chaudhuri | [pdf](/files/slides/26_stochastic_multiplayer_slides.pdf)
 [Cost-Efficient Online Hyperparameter Optimization](/files/cr/28_camera-ready.pdf) | Jingkang Wang, Mengye Ren, Ilija Bogunovic, Yuwen Xiong, Raquel Urtasun | [pdf](/files/slides/28_slide.pdf)
 [Cost-Aware Bayesian Optimization via Information Directed Sampling](/files/cr/29_Cost_Aware_BO_ICML_2020_Workshop.pdf) | Biswajit Paria, Willie Neiswanger, Ramina Ghods, Jeff Schneider, Barnabás Póczos | [pdf](/files/slides/29_icml_workshop_slides.pdf)
