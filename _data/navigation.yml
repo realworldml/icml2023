@@ -10,8 +10,8 @@ main:
     url: /talks/
   - title: "Schedule"
     url: /schedule/
-  # - title: "Accepted papers"
-  #   url: /accepted/
+  - title: "Accepted papers"
+    url: /accepted/
   - title: "Organizers"
     url: /organizers/
   - title: "Related Workshops"

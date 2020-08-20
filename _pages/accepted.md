@@ -13,6 +13,7 @@ author_profile: true
 [Active Learning for Air Quality Station Deployment](/files/cr/6_RealMLICML2020_Camera-Ready_6.pdf) | S. Deepak Narayanan, Apoorv Agnihotri, Nipun Batra | [pdf](/files/slides/6_RealMLICML2020_Lightning_Slides_6.pdf)
 [Active Learning Using Discrepancy](/files/cr/7_cui_paper.pdf) | Zhenghang Cui, Issei Sato | [pdf](/files/slides/7_cui_slides.pdf)
 [A Large-scale Open Dataset for Bandit Algorithms](/files/cr/9_camera-ready_-_A_Large-scale_Open_Dataset_for_Bandit_Algorithms.pdf) | Yuta Saito, Shunsuke Aihara, Megumi Matsutani, Yusuke Narita | [pdf](/files/slides/9_slides_-_A_Large-scale_Open_Dataset_for_Bandit_Algorithms.pdf)
+[Max-value Entropy Search for Multi-Objective Bayesian Optimization](/files/cr/10_MESMO_icml_workshop.pdf) | Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa | [pdf](/files/slides/10_2-mins-slides-icml-workshop.pdf)
 [Optimizing Discrete Spaces via Expensive Evaluations: A Learning to Search Framework](/files/cr/11_Discrete_BO_RealML_camera_ready.pdf) | Aryan Deshwal, Syrine Belakaria, Janardhan Rao, Alan Fern | [pdf](/files/slides/11_L2S_DISCO_slides.pdf)
 [Active Online Domain Adaptation](/files/cr/12_Active_Online_Domain_Adaptation__JMLR_6_pages_.pdf) | Yining Chen, Haipeng Luo, Tengyu Ma, Chicheng Zhang  | [pdf](/files/slides/12_ICML_2020_workshop_2min.pdf)
 [Decentralized Policy Gradient Method for Mean-Field Linear Quadratic Regulator with Global Convergence](/files/cr/13_mf_lqr_realml_cr.pdf) | Lewis Liu, Zhuoran Yang, Yuchen Lu, Zhaoran Wang | [pdf](/files/slides/13_MF_DPGM_pre_v1.pdf)
@@ -26,10 +27,10 @@ author_profile: true
 [Learning to Play Sequential Games versus Unknown Opponents](/files/cr/21_Learning_to_play_Sequential_Games.pdf) | Pier Giuseppe Sessa, Ilija Bogunovic, Maryam Kamgarpour, Andreas Krause | [pdf](/files/slides/21_Slides_Learning_to_Play_Sequential_Games.pdf)
 [Bayesian Optimization for Min Max Optimization](/files/cr/22_MinMaxOpt_Cameraready_20200715.pdf) | Dorina Weichert, Alexander Kister | [pdf](/files/slides/22_MinMaxOpt_Presentation_20200715.pdf)
 [Safe Reinforcement Learning in Constrained Markov Decision Processes](/files/cr/24_SNO_MDP_paper.pdf) | Akifumi Wachi, Yanan Sui | [pdf](/files/slides/24_SNO_MDP_slide.pdf)
-[Query-augmented Active Learning for Large-scale Clustering](/files/cr/25_ICML_workshop.pdf) | Yujia Deng, Yubai Yuan, Irvine Haoda, Annie Qu | [pdf](/files/slides/25_ICML2020_workshop.pdf)
+[Query-augmented Active Learning for Large-scale Clustering](/files/cr/25_ICML_workshop.pdf) | Yujia Deng, Yubai Yuan, Haoda Fu, Annie Qu | [pdf](/files/slides/25_ICML2020_workshop.pdf)
 [Stochastic Multiplayer Bandit Learning from Player-Dependent Feedback](/files/cr/26_stochastic_multiplayer_paper.pdf) | Zhi Wang, Manish Kumar Singh, Chicheng Zhang, Laurel D. Riek, Kamalika Chaudhuri | [pdf](/files/slides/26_stochastic_multiplayer_slides.pdf)
 [Cost-Efficient Online Hyperparameter Optimization](/files/cr/28_camera-ready.pdf) | Jingkang Wang, Mengye Ren, Ilija Bogunovic, Yuwen Xiong, Raquel Urtasun | [pdf](/files/slides/28_slide.pdf)
-Cost-Aware Bayesian Optimization via Information Directed Sampling | Biswajit Paria, Willie Neiswanger, Ramina Ghods, Jeff Schneider, Barnabás Póczos | [pdf](/files/slides/29_icml_workshop_slides.pdf)
+[Cost-Aware Bayesian Optimization via Information Directed Sampling](/files/cr/29_Cost_Aware_BO_ICML_2020_Workshop.pdf) | Biswajit Paria, Willie Neiswanger, Ramina Ghods, Jeff Schneider, Barnabás Póczos | [pdf](/files/slides/29_icml_workshop_slides.pdf)
 [Promoting Fairness in Learned Models by Learning to Active Learn under Parity  Constraints](/files/cr/30_panda_realml_camera_ready.pdf) | Amr Sharaf, Hal Daumé III | [pdf](/files/slides/30_panda_presentation.pdf)
 [PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks](/files/cr/31_PareCO-realml-paper.pdf) | Ting-Wu Chin, Ari S. Morcos, Diana Marculescu | [pdf](/files/slides/31_PareCO-realml-slides.pdf)
 [Faster & More Reliable Tuning of Neural Networks: Bayesian Optimization with Importance Sampling](/files/cr/32_IBO_ICML_Workshop2020.pdf) | Setareh Ariafar, Zelda Mariet, Ehsan Elhamifar, Dana Brooksm, Jennifer Dy, Jasper Snoek | [pdf](/files/slides/32_ICML_2020_RealWorldWorkshop_IBO.pdf)
@@ -47,10 +48,8 @@ Cost-Aware Bayesian Optimization via Information Directed Sampling | Biswajit Pa
 [Preference Learning for Real-World Multi-Objective Decision Making](/files/cr/44_realml_lin_paper.pdf) | Zhiyuan "Jerry" Lin, Adam Obeng, Eytan Bakshy | [pdf](/files/slides/44_realml_lin_slides.pdf)
 [Experimental Design for Bathymetry Editing](/files/cr/45_bathymetry-realworldml.pdf) | Julaiti Alafate, Yoav Freund, David T. Sandwell, Brook Tozer | [pdf](/files/slides/45_slides-bathymetry-realworldml-v2.pdf)
 [Testing RL with Planning for Demand Response in an Energy Social Game](/files/cr/46_ICML_experiment_prospectus_JMLR_format_sty.pdf) | Lucas Spangher, Adam Bouyamourn, Manan Khattar, Akaash Tawade , Akash Gokul, Alex Devonport, Costas Spanos | [pdf](/files/slides/46_RealML_presentation.pdf)
-[Deep Graph Kernel Learning For Autonomous Drug Discovery](/files/cr/48_BADD_paper_workshop.pdf) | Yuanqing Wang, Manh Nguyen, Michael Retchin, John D. Chodera, Theofanis Karaletsos | [pdf](/files/slides/48_BADD_slides_workshop.pdf)
+[Batch Acquistion for Deep Bayesian Active Learning with Imperfect Oracles](/files/cr/47_final.pdf) | Pushkar Kolhe | [pdf](/files/slides/47_presentation.pdf)
+[Bayesian Active Drug Discovery](/files/cr/48_BADD_paper_workshop.pdf) | Yuanqing Wang, Manh Nguyen, Michael Retchin, John D. Chodera, Theofanis Karaletsos | [pdf](/files/slides/48_BADD_slides_workshop.pdf)
 [Active Learning under Label Shift](/files/cr/50_eric_alls_paper.pdf) | Eric Zhao, Anqi Liu, Animashree Anandkumar, Yisong Yue | [pdf](/files/slides/50_eric_alls_slides.pdf)
 [Learning Algorithms for Dynamic Pricing: A Comparative Study](/files/cr/51_dynamic_pricing_cr.pdf) | Chaitanya Amballa, Narendhar Gugulothu, Manu K. Gupta, Sanjay P. Bhat | [pdf](/files/slides/51_dynamic_pricing_slides.pdf)
 
-
-<!-- 10 | Max-value Entropy Search for Multi-Objective Bayesian Optimization | author1 author2 author3 author4 author5 | pdf -->
-<!-- 47 | Batch Acquistion for Deep Bayesian Active Learning with Imperfect Oracles | author1 author2 author3 author4 author5 | pdf -->
