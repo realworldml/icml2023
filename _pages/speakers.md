@@ -16,5 +16,3 @@ sitemap: false
 * **[Dorsa Sadigh](https://dorsa.fyi/)** (Stanford University)
 * **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto)
 
-<!-- * **[Dorsa Sadigh](https://dorsa.fyi/)** (University of California, Berkeley)
- -->
