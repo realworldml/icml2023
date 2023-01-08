@@ -27,7 +27,7 @@ Technical topics of interest include (but are not limited to):
 
 
 ## Camera-Ready Instructions
-Camera-ready papers should be at most 6 pages (excluding references and appendix), using the [customized JMLR template linked here](camera_ready_jmlr_tex_template.zip).
+Camera-ready papers should be at most 6 pages (excluding references and appendix), using the [customized JMLR template linked here](https://realworldml.github.io/icml2020/_pages/camera_ready_jmlr_tex_template.zip).
 All papers must be sent by **July 15, 2020, 11:59 PM (Anywhere on Earth)** to the following email address: realml.icml2020@gmail.com
 
 Note that there will be no archival proceedings. However, the camera-ready papers will be made available on the workshop website.
