@@ -28,9 +28,9 @@ Invited Speakers
 
 Call for Submissions & Important Dates
 ------
-Please see the [Call for papers](https://realworldml.github.io/icml2022/cfp/) for submission instructions.
-* **Submission deadline:** 3rd June 2022, 11:59 PM (AoE time)
-* **Notification of acceptance:** 13th June 2022, 11:59 PM (AoE time)
+Please see the [Call for papers](https://realworldml.github.io/icml2023/cfp/) for submission instructions.
+* **Submission deadline:** 3rd June 2023, 11:59 PM (AoE time)
+* **Notification of acceptance:** 13th June 2023, 11:59 PM (AoE time)
 
 **Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
 
