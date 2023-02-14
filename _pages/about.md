@@ -23,7 +23,7 @@ Invited Speakers
 * [Confirmed] **[Sara Magliacane](https://saramagliacane.github.io/)**, University Amsterdam and MIT-IBM Watson.
 * [Confirmed] **[Stefan Bauer](https://www.kth.se/profile/baue)**, KTH Stockholm.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
-* [Invited] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Cornell Tech.
+* [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Cornell Tech.
 
 
 Call for Submissions & Important Dates
