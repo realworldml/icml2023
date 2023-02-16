@@ -20,10 +20,10 @@ Invited Speakers
 * [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)** , Cambridge University.
 * [Confirmed] **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
 * [Confirmed] **[Hamsa Bastani](https://hamsabastani.github.io/)**,  University of Pennsylvania / Wharton.
-* [Confirmed] **[Sara Magliacane](https://saramagliacane.github.io/)**, University Amsterdam and MIT-IBM Watson.
+* [Confirmed] **[Sara Magliacane](https://saramagliacane.github.io/)**, University of Amsterdam and MIT-IBM Watson.
 * [Confirmed] **[Stefan Bauer](https://www.kth.se/profile/baue)**, KTH Stockholm.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
-* [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Cornell Tech.
+* [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
 
 
 Call for Submissions & Important Dates
@@ -35,7 +35,7 @@ Please see the [Call for papers](https://realworldml.github.io/icml2023/cfp/) fo
 **Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
 
 
-Organizers
-------
+<!--Organizers-->
+<!---------->
 
-TODO
+<!--TODO-->
